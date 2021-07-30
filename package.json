@@ -1,12 +1,19 @@
 {
-  "name": "localize",
+  "name": "@io-tools/localize",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "types": "./lib/index.d.ts",
+  "types": "lib/types/index.d.ts",
+  "main": "lib/cjs/index.js",
+  "exports": {
+    "require": "./lib/cjs/index.js",
+    "import": "./lib/esm/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rimraf lib && tsc"
+    "build": "rimraf lib && npm run build:esm && npm run build:cjs && npm run build:types",
+    "build:esm": "tsc -p tsconfig.esm.json",
+    "build:cjs": "tsc -p tsconfig.cjs.json",
+    "build:types": "tsc -p tsconfig.types.json"
   },
   "repository": {
     "type": "git",
