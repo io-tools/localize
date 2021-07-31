@@ -1,3 +1,3 @@
-import { getCountryCodes } from "./address";
+import { getCountries } from "./address";
 
-export { getCountryCodes };
+export { getCountries };
