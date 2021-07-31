@@ -1,11 +1,7 @@
-class GoogleAddressData {
-  private countryCode: string;
+import * as countries from "./countries.json";
 
-  constructor() {}
-
-  private async loadCountryData(): Promise<void> {}
-
-  public async formatAddress(): Promise<void> {}
+export class GoogleAddressData {
+  public static getSupportedCountries(): Array<string> {
+    return countries;
+  }
 }
-
-export default GoogleAddressData;

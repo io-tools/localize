@@ -1,3 +1,5 @@
-export class Address {}
+import { GoogleAddressData } from "./google-data";
 
-export default Address;
+export const getCountryCodes = (): Array<string> => {
+  return GoogleAddressData.getSupportedCountries();
+};
