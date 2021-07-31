@@ -1,7 +1,8 @@
 {
   "compilerOptions": {
-    "moduleResolution": "Node",
+    "resolveJsonModule": true,
     "declaration": false,
+    "moduleResolution": "Node",
     "target": "ES2017"
   },
   "exclude": ["node_modules"]
