@@ -1,6 +1,8 @@
 {
   "compilerOptions": {
     "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
     "declaration": false,
     "moduleResolution": "Node",
     "target": "ES2017"
