@@ -16,7 +16,8 @@
     "build:esm": "tsc -p tsconfig.esm.json",
     "build:cjs": "tsc -p tsconfig.cjs.json",
     "build:types": "tsc -p tsconfig.types.json",
-    "test": "jest"
+    "test": "jest",
+    "ncu": "npm-check-updates"
   },
   "repository": {
     "type": "git",
@@ -40,6 +41,7 @@
   "devDependencies": {
     "@types/jest": "^26.0.24",
     "jest": "^27.0.6",
+    "npm-check-updates": "^11.8.3",
     "rimraf": "^3.0.2",
     "ts-jest": "^27.0.4",
     "ts-node": "^10.1.0",
