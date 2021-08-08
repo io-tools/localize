@@ -17,7 +17,8 @@
     "build:cjs": "tsc -p tsconfig.cjs.json",
     "build:types": "tsc -p tsconfig.types.json",
     "test": "jest",
-    "ncu": "npm-check-updates"
+    "ncu": "npm-check-updates",
+    "prepare": "node prepare.mjs"
   },
   "repository": {
     "type": "git",
@@ -40,6 +41,7 @@
   "homepage": "https://github.com/io-tools/localize#readme",
   "devDependencies": {
     "@types/jest": "^26.0.24",
+    "axios": "^0.21.1",
     "jest": "^27.0.6",
     "npm-check-updates": "^11.8.3",
     "rimraf": "^3.0.2",
