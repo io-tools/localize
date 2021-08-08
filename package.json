@@ -1,6 +1,6 @@
 {
   "name": "@io-tools/localize",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Provides information about address for any country in the world. Contents of this package will allow you to programatically build address forms that adhere to rules of a particular region or country, validate local addresses and format them to produce a valid address label for delivery.",
   "types": "lib/types/index.d.ts",
   "main": "lib/cjs/index.js",
