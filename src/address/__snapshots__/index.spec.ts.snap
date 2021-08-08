@@ -7,1008 +7,1008 @@ Array [
     "name": "ASCENSION ISLAND",
   },
   Object {
-    "code": "AE",
-    "name": "UNITED ARAB EMIRATES",
-  },
-  Object {
-    "code": "AG",
-    "name": "ANTIGUA AND BARBUDA",
-  },
-  Object {
-    "code": "AL",
-    "name": "ALBANIA",
-  },
-  Object {
-    "code": "AO",
-    "name": "ANGOLA",
-  },
-  Object {
-    "code": "AR",
-    "name": "ARGENTINA",
-  },
-  Object {
     "code": "AD",
     "name": "ANDORRA",
   },
   Object {
-    "code": "AI",
-    "name": "ANGUILLA",
-  },
-  Object {
-    "code": "AQ",
-    "name": "ANTARCTICA",
+    "code": "AE",
+    "name": "UNITED ARAB EMIRATES",
   },
   Object {
     "code": "AF",
     "name": "AFGHANISTAN",
   },
   Object {
-    "code": "AS",
-    "name": "AMERICAN SAMOA",
+    "code": "AG",
+    "name": "ANTIGUA AND BARBUDA",
   },
   Object {
-    "code": "AU",
-    "name": "AUSTRALIA",
+    "code": "AI",
+    "name": "ANGUILLA",
   },
   Object {
-    "code": "AX",
-    "name": "FINLAND",
-  },
-  Object {
-    "code": "BA",
-    "name": "BOSNIA AND HERZEGOVINA",
-  },
-  Object {
-    "code": "BD",
-    "name": "BANGLADESH",
-  },
-  Object {
-    "code": "BF",
-    "name": "BURKINA FASO",
-  },
-  Object {
-    "code": "BH",
-    "name": "BAHRAIN",
-  },
-  Object {
-    "code": "BJ",
-    "name": "BENIN",
-  },
-  Object {
-    "code": "BM",
-    "name": "BERMUDA",
-  },
-  Object {
-    "code": "BO",
-    "name": "BOLIVIA",
+    "code": "AL",
+    "name": "ALBANIA",
   },
   Object {
     "code": "AM",
     "name": "ARMENIA",
   },
   Object {
-    "code": "AW",
-    "name": "ARUBA",
+    "code": "AO",
+    "name": "ANGOLA",
   },
   Object {
-    "code": "BB",
-    "name": "BARBADOS",
+    "code": "AQ",
+    "name": "ANTARCTICA",
+  },
+  Object {
+    "code": "AR",
+    "name": "ARGENTINA",
+  },
+  Object {
+    "code": "AS",
+    "name": "AMERICAN SAMOA",
   },
   Object {
     "code": "AT",
     "name": "AUSTRIA",
   },
   Object {
-    "code": "BE",
-    "name": "BELGIUM",
+    "code": "AU",
+    "name": "AUSTRALIA",
   },
   Object {
-    "code": "BI",
-    "name": "BURUNDI",
+    "code": "AW",
+    "name": "ARUBA",
   },
   Object {
-    "code": "BN",
-    "name": "BRUNEI DARUSSALAM",
-  },
-  Object {
-    "code": "BR",
-    "name": "BRAZIL",
-  },
-  Object {
-    "code": "BT",
-    "name": "BHUTAN",
+    "code": "AX",
+    "name": "FINLAND",
   },
   Object {
     "code": "AZ",
     "name": "AZERBAIJAN",
   },
   Object {
-    "code": "BL",
-    "name": "SAINT BARTHELEMY",
+    "code": "BA",
+    "name": "BOSNIA AND HERZEGOVINA",
   },
   Object {
-    "code": "BS",
-    "name": "BAHAMAS",
+    "code": "BB",
+    "name": "BARBADOS",
   },
   Object {
-    "code": "BW",
-    "name": "BOTSWANA",
+    "code": "BD",
+    "name": "BANGLADESH",
   },
   Object {
-    "code": "BZ",
-    "name": "BELIZE",
+    "code": "BE",
+    "name": "BELGIUM",
+  },
+  Object {
+    "code": "BF",
+    "name": "BURKINA FASO",
   },
   Object {
     "code": "BG",
     "name": "BULGARIA (REP.)",
   },
   Object {
+    "code": "BH",
+    "name": "BAHRAIN",
+  },
+  Object {
+    "code": "BI",
+    "name": "BURUNDI",
+  },
+  Object {
+    "code": "BJ",
+    "name": "BENIN",
+  },
+  Object {
+    "code": "BL",
+    "name": "SAINT BARTHELEMY",
+  },
+  Object {
+    "code": "BM",
+    "name": "BERMUDA",
+  },
+  Object {
+    "code": "BN",
+    "name": "BRUNEI DARUSSALAM",
+  },
+  Object {
+    "code": "BO",
+    "name": "BOLIVIA",
+  },
+  Object {
     "code": "BQ",
     "name": "BONAIRE, SINT EUSTATIUS, AND SABA",
   },
   Object {
-    "code": "BY",
-    "name": "BELARUS",
+    "code": "BR",
+    "name": "BRAZIL",
   },
   Object {
-    "code": "CC",
-    "name": "COCOS (KEELING) ISLANDS",
+    "code": "BS",
+    "name": "BAHAMAS",
   },
   Object {
-    "code": "CF",
-    "name": "CENTRAL AFRICAN REPUBLIC",
-  },
-  Object {
-    "code": "CH",
-    "name": "SWITZERLAND",
+    "code": "BT",
+    "name": "BHUTAN",
   },
   Object {
     "code": "BV",
     "name": "BOUVET ISLAND",
   },
   Object {
+    "code": "BW",
+    "name": "BOTSWANA",
+  },
+  Object {
+    "code": "BY",
+    "name": "BELARUS",
+  },
+  Object {
+    "code": "BZ",
+    "name": "BELIZE",
+  },
+  Object {
     "code": "CA",
     "name": "CANADA",
   },
   Object {
-    "code": "CG",
-    "name": "CONGO (REP.)",
-  },
-  Object {
-    "code": "CK",
-    "name": "COOK ISLANDS",
-  },
-  Object {
-    "code": "CM",
-    "name": "CAMEROON",
-  },
-  Object {
-    "code": "CO",
-    "name": "COLOMBIA",
-  },
-  Object {
-    "code": "CU",
-    "name": "CUBA",
-  },
-  Object {
-    "code": "CW",
-    "name": "CURACAO",
+    "code": "CC",
+    "name": "COCOS (KEELING) ISLANDS",
   },
   Object {
     "code": "CD",
     "name": "CONGO (DEM. REP.)",
   },
   Object {
-    "code": "CL",
-    "name": "CHILE",
+    "code": "CF",
+    "name": "CENTRAL AFRICAN REPUBLIC",
   },
   Object {
-    "code": "CR",
-    "name": "COSTA RICA",
+    "code": "CG",
+    "name": "CONGO (REP.)",
   },
   Object {
-    "code": "CX",
-    "name": "CHRISTMAS ISLAND",
-  },
-  Object {
-    "code": "CZ",
-    "name": "CZECH REP.",
-  },
-  Object {
-    "code": "DJ",
-    "name": "DJIBOUTI",
-  },
-  Object {
-    "code": "DM",
-    "name": "DOMINICA",
-  },
-  Object {
-    "code": "DZ",
-    "name": "ALGERIA",
-  },
-  Object {
-    "code": "EE",
-    "name": "ESTONIA",
-  },
-  Object {
-    "code": "EH",
-    "name": "WESTERN SAHARA",
-  },
-  Object {
-    "code": "ES",
-    "name": "SPAIN",
-  },
-  Object {
-    "code": "FI",
-    "name": "FINLAND",
-  },
-  Object {
-    "code": "FK",
-    "name": "FALKLAND ISLANDS (MALVINAS)",
-  },
-  Object {
-    "code": "FO",
-    "name": "FAROE ISLANDS",
-  },
-  Object {
-    "code": "GA",
-    "name": "GABON",
-  },
-  Object {
-    "code": "GD",
-    "name": "GRENADA (WEST INDIES)",
-  },
-  Object {
-    "code": "GF",
-    "name": "FRENCH GUIANA",
-  },
-  Object {
-    "code": "GH",
-    "name": "GHANA",
-  },
-  Object {
-    "code": "GL",
-    "name": "GREENLAND",
+    "code": "CH",
+    "name": "SWITZERLAND",
   },
   Object {
     "code": "CI",
     "name": "COTE D'IVOIRE",
   },
   Object {
+    "code": "CK",
+    "name": "COOK ISLANDS",
+  },
+  Object {
+    "code": "CL",
+    "name": "CHILE",
+  },
+  Object {
+    "code": "CM",
+    "name": "CAMEROON",
+  },
+  Object {
     "code": "CN",
     "name": "CHINA",
+  },
+  Object {
+    "code": "CO",
+    "name": "COLOMBIA",
+  },
+  Object {
+    "code": "CR",
+    "name": "COSTA RICA",
+  },
+  Object {
+    "code": "CU",
+    "name": "CUBA",
   },
   Object {
     "code": "CV",
     "name": "CAPE VERDE",
   },
   Object {
-    "code": "DE",
-    "name": "GERMANY",
+    "code": "CW",
+    "name": "CURACAO",
   },
   Object {
-    "code": "DO",
-    "name": "DOMINICAN REP.",
-  },
-  Object {
-    "code": "EG",
-    "name": "EGYPT",
-  },
-  Object {
-    "code": "ET",
-    "name": "ETHIOPIA",
-  },
-  Object {
-    "code": "FM",
-    "name": "MICRONESIA (Federated State of)",
-  },
-  Object {
-    "code": "GB",
-    "name": "UNITED KINGDOM",
-  },
-  Object {
-    "code": "GG",
-    "name": "CHANNEL ISLANDS",
+    "code": "CX",
+    "name": "CHRISTMAS ISLAND",
   },
   Object {
     "code": "CY",
     "name": "CYPRUS",
   },
   Object {
-    "code": "EC",
-    "name": "ECUADOR",
+    "code": "CZ",
+    "name": "CZECH REP.",
+  },
+  Object {
+    "code": "DE",
+    "name": "GERMANY",
+  },
+  Object {
+    "code": "DJ",
+    "name": "DJIBOUTI",
   },
   Object {
     "code": "DK",
     "name": "DENMARK",
   },
   Object {
-    "code": "FJ",
-    "name": "FIJI",
+    "code": "DM",
+    "name": "DOMINICA",
   },
   Object {
-    "code": "GE",
-    "name": "GEORGIA",
+    "code": "DO",
+    "name": "DOMINICAN REP.",
   },
   Object {
-    "code": "GM",
-    "name": "GAMBIA",
+    "code": "DZ",
+    "name": "ALGERIA",
   },
   Object {
-    "code": "GP",
-    "name": "GUADELOUPE",
+    "code": "EC",
+    "name": "ECUADOR",
   },
   Object {
-    "code": "GR",
-    "name": "GREECE",
+    "code": "EE",
+    "name": "ESTONIA",
   },
   Object {
-    "code": "GT",
-    "name": "GUATEMALA",
+    "code": "EG",
+    "name": "EGYPT",
   },
   Object {
-    "code": "GW",
-    "name": "GUINEA-BISSAU",
-  },
-  Object {
-    "code": "HK",
-    "name": "HONG KONG",
-  },
-  Object {
-    "code": "HN",
-    "name": "HONDURAS",
-  },
-  Object {
-    "code": "HT",
-    "name": "HAITI",
-  },
-  Object {
-    "code": "ID",
-    "name": "INDONESIA",
-  },
-  Object {
-    "code": "IL",
-    "name": "ISRAEL",
-  },
-  Object {
-    "code": "IN",
-    "name": "INDIA",
+    "code": "EH",
+    "name": "WESTERN SAHARA",
   },
   Object {
     "code": "ER",
     "name": "ERITREA",
   },
   Object {
-    "code": "GI",
-    "name": "GIBRALTAR",
+    "code": "ES",
+    "name": "SPAIN",
   },
   Object {
-    "code": "GQ",
-    "name": "EQUATORIAL GUINEA",
+    "code": "ET",
+    "name": "ETHIOPIA",
   },
   Object {
-    "code": "GU",
-    "name": "GUAM",
+    "code": "FI",
+    "name": "FINLAND",
   },
   Object {
-    "code": "HM",
-    "name": "HEARD AND MCDONALD ISLANDS",
+    "code": "FJ",
+    "name": "FIJI",
   },
   Object {
-    "code": "HU",
-    "name": "HUNGARY (Rep.)",
+    "code": "FK",
+    "name": "FALKLAND ISLANDS (MALVINAS)",
   },
   Object {
-    "code": "IM",
-    "name": "ISLE OF MAN",
+    "code": "FM",
+    "name": "MICRONESIA (Federated State of)",
   },
   Object {
-    "code": "IQ",
-    "name": "IRAQ",
+    "code": "FO",
+    "name": "FAROE ISLANDS",
   },
   Object {
     "code": "FR",
     "name": "FRANCE",
   },
   Object {
-    "code": "GS",
-    "name": "SOUTH GEORGIA",
+    "code": "GA",
+    "name": "GABON",
+  },
+  Object {
+    "code": "GB",
+    "name": "UNITED KINGDOM",
+  },
+  Object {
+    "code": "GD",
+    "name": "GRENADA (WEST INDIES)",
+  },
+  Object {
+    "code": "GE",
+    "name": "GEORGIA",
+  },
+  Object {
+    "code": "GF",
+    "name": "FRENCH GUIANA",
+  },
+  Object {
+    "code": "GG",
+    "name": "CHANNEL ISLANDS",
+  },
+  Object {
+    "code": "GH",
+    "name": "GHANA",
+  },
+  Object {
+    "code": "GI",
+    "name": "GIBRALTAR",
+  },
+  Object {
+    "code": "GL",
+    "name": "GREENLAND",
+  },
+  Object {
+    "code": "GM",
+    "name": "GAMBIA",
   },
   Object {
     "code": "GN",
     "name": "GUINEA",
   },
   Object {
-    "code": "HR",
-    "name": "CROATIA",
+    "code": "GP",
+    "name": "GUADELOUPE",
   },
   Object {
-    "code": "IO",
-    "name": "BRITISH INDIAN OCEAN TERRITORY",
+    "code": "GQ",
+    "name": "EQUATORIAL GUINEA",
   },
   Object {
-    "code": "IS",
-    "name": "ICELAND",
+    "code": "GR",
+    "name": "GREECE",
   },
   Object {
-    "code": "JE",
-    "name": "CHANNEL ISLANDS",
+    "code": "GS",
+    "name": "SOUTH GEORGIA",
   },
   Object {
-    "code": "JO",
-    "name": "JORDAN",
+    "code": "GT",
+    "name": "GUATEMALA",
+  },
+  Object {
+    "code": "GU",
+    "name": "GUAM",
+  },
+  Object {
+    "code": "GW",
+    "name": "GUINEA-BISSAU",
   },
   Object {
     "code": "GY",
     "name": "GUYANA",
   },
   Object {
+    "code": "HK",
+    "name": "HONG KONG",
+  },
+  Object {
+    "code": "HM",
+    "name": "HEARD AND MCDONALD ISLANDS",
+  },
+  Object {
+    "code": "HN",
+    "name": "HONDURAS",
+  },
+  Object {
+    "code": "HR",
+    "name": "CROATIA",
+  },
+  Object {
+    "code": "HT",
+    "name": "HAITI",
+  },
+  Object {
+    "code": "HU",
+    "name": "HUNGARY (Rep.)",
+  },
+  Object {
+    "code": "ID",
+    "name": "INDONESIA",
+  },
+  Object {
     "code": "IE",
     "name": "IRELAND",
   },
   Object {
-    "code": "IT",
-    "name": "ITALY",
+    "code": "IL",
+    "name": "ISRAEL",
+  },
+  Object {
+    "code": "IM",
+    "name": "ISLE OF MAN",
+  },
+  Object {
+    "code": "IN",
+    "name": "INDIA",
+  },
+  Object {
+    "code": "IO",
+    "name": "BRITISH INDIAN OCEAN TERRITORY",
+  },
+  Object {
+    "code": "IQ",
+    "name": "IRAQ",
   },
   Object {
     "code": "IR",
     "name": "IRAN",
   },
   Object {
+    "code": "IS",
+    "name": "ICELAND",
+  },
+  Object {
+    "code": "IT",
+    "name": "ITALY",
+  },
+  Object {
+    "code": "JE",
+    "name": "CHANNEL ISLANDS",
+  },
+  Object {
     "code": "JM",
     "name": "JAMAICA",
   },
   Object {
-    "code": "KE",
-    "name": "KENYA",
-  },
-  Object {
-    "code": "KH",
-    "name": "CAMBODIA",
+    "code": "JO",
+    "name": "JORDAN",
   },
   Object {
     "code": "JP",
     "name": "JAPAN",
   },
   Object {
+    "code": "KE",
+    "name": "KENYA",
+  },
+  Object {
     "code": "KG",
     "name": "KYRGYZSTAN",
   },
   Object {
-    "code": "KM",
-    "name": "COMOROS",
+    "code": "KH",
+    "name": "CAMBODIA",
   },
   Object {
     "code": "KI",
     "name": "KIRIBATI",
   },
   Object {
-    "code": "KP",
-    "name": "NORTH KOREA",
-  },
-  Object {
-    "code": "KW",
-    "name": "KUWAIT",
-  },
-  Object {
-    "code": "KZ",
-    "name": "KAZAKHSTAN",
-  },
-  Object {
-    "code": "LB",
-    "name": "LEBANON",
-  },
-  Object {
-    "code": "LI",
-    "name": "LIECHTENSTEIN",
-  },
-  Object {
-    "code": "LR",
-    "name": "LIBERIA",
-  },
-  Object {
-    "code": "LT",
-    "name": "LITHUANIA",
-  },
-  Object {
-    "code": "LV",
-    "name": "LATVIA",
-  },
-  Object {
-    "code": "MA",
-    "name": "MOROCCO",
+    "code": "KM",
+    "name": "COMOROS",
   },
   Object {
     "code": "KN",
     "name": "SAINT KITTS AND NEVIS",
   },
   Object {
-    "code": "KY",
-    "name": "CAYMAN ISLANDS",
+    "code": "KP",
+    "name": "NORTH KOREA",
   },
   Object {
     "code": "KR",
     "name": "SOUTH KOREA",
   },
   Object {
+    "code": "KW",
+    "name": "KUWAIT",
+  },
+  Object {
+    "code": "KY",
+    "name": "CAYMAN ISLANDS",
+  },
+  Object {
+    "code": "KZ",
+    "name": "KAZAKHSTAN",
+  },
+  Object {
     "code": "LA",
     "name": "LAO (PEOPLE'S DEM. REP.)",
   },
   Object {
-    "code": "LK",
-    "name": "SRI LANKA",
+    "code": "LB",
+    "name": "LEBANON",
   },
   Object {
     "code": "LC",
     "name": "SAINT LUCIA",
   },
   Object {
+    "code": "LI",
+    "name": "LIECHTENSTEIN",
+  },
+  Object {
+    "code": "LK",
+    "name": "SRI LANKA",
+  },
+  Object {
+    "code": "LR",
+    "name": "LIBERIA",
+  },
+  Object {
     "code": "LS",
     "name": "LESOTHO",
+  },
+  Object {
+    "code": "LT",
+    "name": "LITHUANIA",
   },
   Object {
     "code": "LU",
     "name": "LUXEMBOURG",
   },
   Object {
-    "code": "MC",
-    "name": "MONACO",
-  },
-  Object {
-    "code": "ME",
-    "name": "MONTENEGRO",
-  },
-  Object {
-    "code": "MG",
-    "name": "MADAGASCAR",
-  },
-  Object {
-    "code": "MK",
-    "name": "MACEDONIA",
+    "code": "LV",
+    "name": "LATVIA",
   },
   Object {
     "code": "LY",
     "name": "LIBYA",
   },
   Object {
-    "code": "MF",
-    "name": "SAINT MARTIN",
+    "code": "MA",
+    "name": "MOROCCO",
+  },
+  Object {
+    "code": "MC",
+    "name": "MONACO",
   },
   Object {
     "code": "MD",
     "name": "Rep. MOLDOVA",
   },
   Object {
-    "code": "ML",
-    "name": "MALI",
+    "code": "ME",
+    "name": "MONTENEGRO",
   },
   Object {
-    "code": "MN",
-    "name": "MONGOLIA",
+    "code": "MF",
+    "name": "SAINT MARTIN",
   },
   Object {
-    "code": "MP",
-    "name": "NORTHERN MARIANA ISLANDS",
-  },
-  Object {
-    "code": "MR",
-    "name": "MAURITANIA",
+    "code": "MG",
+    "name": "MADAGASCAR",
   },
   Object {
     "code": "MH",
     "name": "MARSHALL ISLANDS",
   },
   Object {
-    "code": "MO",
-    "name": "MACAO",
+    "code": "MK",
+    "name": "MACEDONIA",
   },
   Object {
-    "code": "MS",
-    "name": "MONTSERRAT",
+    "code": "ML",
+    "name": "MALI",
   },
   Object {
     "code": "MM",
     "name": "MYANMAR",
   },
   Object {
-    "code": "MT",
-    "name": "MALTA",
+    "code": "MN",
+    "name": "MONGOLIA",
+  },
+  Object {
+    "code": "MO",
+    "name": "MACAO",
+  },
+  Object {
+    "code": "MP",
+    "name": "NORTHERN MARIANA ISLANDS",
   },
   Object {
     "code": "MQ",
     "name": "MARTINIQUE",
   },
   Object {
-    "code": "MV",
-    "name": "MALDIVES",
+    "code": "MR",
+    "name": "MAURITANIA",
   },
   Object {
-    "code": "MX",
-    "name": "MEXICO",
+    "code": "MS",
+    "name": "MONTSERRAT",
   },
   Object {
-    "code": "MZ",
-    "name": "MOZAMBIQUE",
-  },
-  Object {
-    "code": "NC",
-    "name": "NEW CALEDONIA",
-  },
-  Object {
-    "code": "NF",
-    "name": "NORFOLK ISLAND",
-  },
-  Object {
-    "code": "NI",
-    "name": "NICARAGUA",
-  },
-  Object {
-    "code": "NO",
-    "name": "NORWAY",
+    "code": "MT",
+    "name": "MALTA",
   },
   Object {
     "code": "MU",
     "name": "MAURITIUS",
   },
   Object {
-    "code": "MY",
-    "name": "MALAYSIA",
-  },
-  Object {
-    "code": "NE",
-    "name": "NIGER",
-  },
-  Object {
-    "code": "NL",
-    "name": "NETHERLANDS",
-  },
-  Object {
-    "code": "NR",
-    "name": "NAURU CENTRAL PACIFIC",
-  },
-  Object {
-    "code": "NZ",
-    "name": "NEW ZEALAND",
-  },
-  Object {
-    "code": "PA",
-    "name": "PANAMA (REP.)",
-  },
-  Object {
-    "code": "PF",
-    "name": "FRENCH POLYNESIA",
-  },
-  Object {
-    "code": "PH",
-    "name": "PHILIPPINES",
-  },
-  Object {
-    "code": "PL",
-    "name": "POLAND",
-  },
-  Object {
-    "code": "PN",
-    "name": "PITCAIRN",
-  },
-  Object {
-    "code": "PS",
-    "name": "PALESTINIAN TERRITORY",
-  },
-  Object {
-    "code": "PW",
-    "name": "PALAU",
-  },
-  Object {
-    "code": "QA",
-    "name": "QATAR",
+    "code": "MV",
+    "name": "MALDIVES",
   },
   Object {
     "code": "MW",
     "name": "MALAWI",
   },
   Object {
-    "code": "NG",
-    "name": "NIGERIA",
+    "code": "MX",
+    "name": "MEXICO",
+  },
+  Object {
+    "code": "MY",
+    "name": "MALAYSIA",
+  },
+  Object {
+    "code": "MZ",
+    "name": "MOZAMBIQUE",
   },
   Object {
     "code": "NA",
     "name": "NAMIBIA",
   },
   Object {
+    "code": "NC",
+    "name": "NEW CALEDONIA",
+  },
+  Object {
+    "code": "NE",
+    "name": "NIGER",
+  },
+  Object {
+    "code": "NF",
+    "name": "NORFOLK ISLAND",
+  },
+  Object {
+    "code": "NG",
+    "name": "NIGERIA",
+  },
+  Object {
+    "code": "NI",
+    "name": "NICARAGUA",
+  },
+  Object {
+    "code": "NL",
+    "name": "NETHERLANDS",
+  },
+  Object {
+    "code": "NO",
+    "name": "NORWAY",
+  },
+  Object {
     "code": "NP",
     "name": "NEPAL",
   },
   Object {
-    "code": "OM",
-    "name": "OMAN",
+    "code": "NR",
+    "name": "NAURU CENTRAL PACIFIC",
   },
   Object {
     "code": "NU",
     "name": "NIUE",
   },
   Object {
+    "code": "NZ",
+    "name": "NEW ZEALAND",
+  },
+  Object {
+    "code": "OM",
+    "name": "OMAN",
+  },
+  Object {
+    "code": "PA",
+    "name": "PANAMA (REP.)",
+  },
+  Object {
     "code": "PE",
     "name": "PERU",
   },
   Object {
-    "code": "PK",
-    "name": "PAKISTAN",
-  },
-  Object {
-    "code": "PR",
-    "name": "PUERTO RICO",
-  },
-  Object {
-    "code": "PY",
-    "name": "PARAGUAY",
-  },
-  Object {
-    "code": "RO",
-    "name": "ROMANIA",
-  },
-  Object {
-    "code": "RU",
-    "name": "RUSSIAN FEDERATION",
-  },
-  Object {
-    "code": "SA",
-    "name": "SAUDI ARABIA",
-  },
-  Object {
-    "code": "SC",
-    "name": "SEYCHELLES",
-  },
-  Object {
-    "code": "SE",
-    "name": "SWEDEN",
-  },
-  Object {
-    "code": "SH",
-    "name": "SAINT HELENA",
-  },
-  Object {
-    "code": "SJ",
-    "name": "SVALBARD AND JAN MAYEN ISLANDS",
+    "code": "PF",
+    "name": "FRENCH POLYNESIA",
   },
   Object {
     "code": "PG",
     "name": "PAPUA NEW GUINEA",
   },
   Object {
-    "code": "PT",
-    "name": "PORTUGAL",
+    "code": "PH",
+    "name": "PHILIPPINES",
+  },
+  Object {
+    "code": "PK",
+    "name": "PAKISTAN",
+  },
+  Object {
+    "code": "PL",
+    "name": "POLAND",
   },
   Object {
     "code": "PM",
     "name": "ST. PIERRE AND MIQUELON",
   },
   Object {
+    "code": "PN",
+    "name": "PITCAIRN",
+  },
+  Object {
+    "code": "PR",
+    "name": "PUERTO RICO",
+  },
+  Object {
+    "code": "PS",
+    "name": "PALESTINIAN TERRITORY",
+  },
+  Object {
+    "code": "PT",
+    "name": "PORTUGAL",
+  },
+  Object {
+    "code": "PW",
+    "name": "PALAU",
+  },
+  Object {
+    "code": "PY",
+    "name": "PARAGUAY",
+  },
+  Object {
+    "code": "QA",
+    "name": "QATAR",
+  },
+  Object {
     "code": "RE",
     "name": "REUNION",
   },
   Object {
-    "code": "RW",
-    "name": "RWANDA",
-  },
-  Object {
-    "code": "SD",
-    "name": "SUDAN",
-  },
-  Object {
-    "code": "SI",
-    "name": "SLOVENIA",
+    "code": "RO",
+    "name": "ROMANIA",
   },
   Object {
     "code": "RS",
     "name": "REPUBLIC OF SERBIA",
   },
   Object {
-    "code": "SG",
-    "name": "REP. OF SINGAPORE",
+    "code": "RU",
+    "name": "RUSSIAN FEDERATION",
   },
   Object {
-    "code": "SL",
-    "name": "SIERRA LEONE",
+    "code": "RW",
+    "name": "RWANDA",
   },
   Object {
-    "code": "SN",
-    "name": "SENEGAL",
+    "code": "SA",
+    "name": "SAUDI ARABIA",
   },
   Object {
     "code": "SB",
     "name": "SOLOMON ISLANDS",
   },
   Object {
-    "code": "SM",
-    "name": "SAN MARINO",
+    "code": "SC",
+    "name": "SEYCHELLES",
   },
   Object {
-    "code": "SR",
-    "name": "SURINAME",
+    "code": "SD",
+    "name": "SUDAN",
   },
   Object {
-    "code": "ST",
-    "name": "SAO TOME AND PRINCIPE",
+    "code": "SE",
+    "name": "SWEDEN",
   },
   Object {
-    "code": "SX",
-    "name": "SINT MAARTEN",
+    "code": "SG",
+    "name": "REP. OF SINGAPORE",
+  },
+  Object {
+    "code": "SH",
+    "name": "SAINT HELENA",
+  },
+  Object {
+    "code": "SI",
+    "name": "SLOVENIA",
+  },
+  Object {
+    "code": "SJ",
+    "name": "SVALBARD AND JAN MAYEN ISLANDS",
   },
   Object {
     "code": "SK",
     "name": "SLOVAKIA",
   },
   Object {
+    "code": "SL",
+    "name": "SIERRA LEONE",
+  },
+  Object {
+    "code": "SM",
+    "name": "SAN MARINO",
+  },
+  Object {
+    "code": "SN",
+    "name": "SENEGAL",
+  },
+  Object {
     "code": "SO",
     "name": "SOMALIA",
+  },
+  Object {
+    "code": "SR",
+    "name": "SURINAME",
   },
   Object {
     "code": "SS",
     "name": "SOUTH SUDAN",
   },
   Object {
+    "code": "ST",
+    "name": "SAO TOME AND PRINCIPE",
+  },
+  Object {
     "code": "SV",
     "name": "EL SALVADOR",
   },
   Object {
-    "code": "SZ",
-    "name": "SWAZILAND",
+    "code": "SX",
+    "name": "SINT MAARTEN",
   },
   Object {
     "code": "SY",
     "name": "SYRIA",
   },
   Object {
+    "code": "SZ",
+    "name": "SWAZILAND",
+  },
+  Object {
     "code": "TA",
     "name": "TRISTAN DA CUNHA",
-  },
-  Object {
-    "code": "TD",
-    "name": "CHAD",
-  },
-  Object {
-    "code": "TG",
-    "name": "TOGO",
-  },
-  Object {
-    "code": "TJ",
-    "name": "TAJIKISTAN",
-  },
-  Object {
-    "code": "TL",
-    "name": "TIMOR-LESTE",
-  },
-  Object {
-    "code": "TN",
-    "name": "TUNISIA",
   },
   Object {
     "code": "TC",
     "name": "TURKS AND CAICOS ISLANDS",
   },
   Object {
-    "code": "TH",
-    "name": "THAILAND",
-  },
-  Object {
-    "code": "TM",
-    "name": "TURKMENISTAN",
-  },
-  Object {
-    "code": "TR",
-    "name": "TURKEY",
-  },
-  Object {
-    "code": "TV",
-    "name": "TUVALU",
-  },
-  Object {
-    "code": "TZ",
-    "name": "TANZANIA (UNITED REP.)",
-  },
-  Object {
-    "code": "UG",
-    "name": "UGANDA",
-  },
-  Object {
-    "code": "US",
-    "name": "UNITED STATES",
-  },
-  Object {
-    "code": "UZ",
-    "name": "UZBEKISTAN",
+    "code": "TD",
+    "name": "CHAD",
   },
   Object {
     "code": "TF",
     "name": "FRENCH SOUTHERN TERRITORIES",
   },
   Object {
-    "code": "TO",
-    "name": "TONGA",
+    "code": "TG",
+    "name": "TOGO",
   },
   Object {
-    "code": "TW",
-    "name": "TAIWAN",
+    "code": "TH",
+    "name": "THAILAND",
   },
   Object {
-    "code": "UM",
-    "name": "UNITED STATES MINOR OUTLYING ISLANDS",
-  },
-  Object {
-    "code": "VA",
-    "name": "VATICAN",
+    "code": "TJ",
+    "name": "TAJIKISTAN",
   },
   Object {
     "code": "TK",
     "name": "TOKELAU",
   },
   Object {
-    "code": "UA",
-    "name": "UKRAINE",
+    "code": "TL",
+    "name": "TIMOR-LESTE",
   },
   Object {
-    "code": "VC",
-    "name": "SAINT VINCENT AND THE GRENADINES (ANTILLES)",
+    "code": "TM",
+    "name": "TURKMENISTAN",
   },
   Object {
-    "code": "VG",
-    "name": "VIRGIN ISLANDS (BRITISH)",
+    "code": "TN",
+    "name": "TUNISIA",
+  },
+  Object {
+    "code": "TO",
+    "name": "TONGA",
+  },
+  Object {
+    "code": "TR",
+    "name": "TURKEY",
   },
   Object {
     "code": "TT",
     "name": "TRINIDAD AND TOBAGO",
   },
   Object {
-    "code": "VE",
-    "name": "VENEZUELA",
+    "code": "TV",
+    "name": "TUVALU",
   },
   Object {
-    "code": "VN",
-    "name": "VIET NAM",
+    "code": "TW",
+    "name": "TAIWAN",
   },
   Object {
-    "code": "WF",
-    "name": "WALLIS AND FUTUNA ISLANDS",
+    "code": "TZ",
+    "name": "TANZANIA (UNITED REP.)",
   },
   Object {
-    "code": "XK",
-    "name": "KOSOVO",
+    "code": "UA",
+    "name": "UKRAINE",
   },
   Object {
-    "code": "YT",
-    "name": "MAYOTTE",
+    "code": "UG",
+    "name": "UGANDA",
   },
   Object {
-    "code": "ZM",
-    "name": "ZAMBIA",
+    "code": "UM",
+    "name": "UNITED STATES MINOR OUTLYING ISLANDS",
+  },
+  Object {
+    "code": "US",
+    "name": "UNITED STATES",
   },
   Object {
     "code": "UY",
     "name": "URUGUAY",
   },
   Object {
-    "code": "VU",
-    "name": "VANUATU",
+    "code": "UZ",
+    "name": "UZBEKISTAN",
   },
   Object {
-    "code": "YE",
-    "name": "YEMEN",
+    "code": "VA",
+    "name": "VATICAN",
   },
   Object {
-    "code": "ZW",
-    "name": "ZIMBABWE",
+    "code": "VC",
+    "name": "SAINT VINCENT AND THE GRENADINES (ANTILLES)",
+  },
+  Object {
+    "code": "VE",
+    "name": "VENEZUELA",
+  },
+  Object {
+    "code": "VG",
+    "name": "VIRGIN ISLANDS (BRITISH)",
   },
   Object {
     "code": "VI",
     "name": "VIRGIN ISLANDS (U.S.)",
   },
   Object {
-    "code": "ZA",
-    "name": "SOUTH AFRICA",
+    "code": "VN",
+    "name": "VIET NAM",
+  },
+  Object {
+    "code": "VU",
+    "name": "VANUATU",
+  },
+  Object {
+    "code": "WF",
+    "name": "WALLIS AND FUTUNA ISLANDS",
   },
   Object {
     "code": "WS",
     "name": "SAMOA",
+  },
+  Object {
+    "code": "XK",
+    "name": "KOSOVO",
+  },
+  Object {
+    "code": "YE",
+    "name": "YEMEN",
+  },
+  Object {
+    "code": "YT",
+    "name": "MAYOTTE",
+  },
+  Object {
+    "code": "ZA",
+    "name": "SOUTH AFRICA",
+  },
+  Object {
+    "code": "ZM",
+    "name": "ZAMBIA",
+  },
+  Object {
+    "code": "ZW",
+    "name": "ZIMBABWE",
   },
   Object {
     "code": undefined,

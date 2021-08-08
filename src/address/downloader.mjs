@@ -44,18 +44,23 @@ const getCountryData = async (countryCode) => {
 };
 
 (async function () {
+  console.log("Downloading Google address data...");
   try {
     const countries = await getCountries();
     const COUNTRY_DATA = await Promise.all(
       [...countries, "ZZ"].map((countryCode) => getCountryData(countryCode))
     );
-    let JSONData = COUNTRY_DATA.reduce((acc, country) => {
-      return {
-        ...acc,
-        [country.id.split("/")[1]]: country,
-      };
-    }, {});
+    let JSONData = COUNTRY_DATA.sort((a, b) => a.key - b.key).reduce(
+      (acc, country) => {
+        return {
+          ...acc,
+          [country.id.split("/")[1]]: country,
+        };
+      },
+      {}
+    );
     saveAs("data.json", JSONData);
+    console.log("Done.");
   } catch (e) {
     console.error(e);
   }
