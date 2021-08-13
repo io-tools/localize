@@ -7,7 +7,7 @@ const GOOGLE_DATA_URL = "https://chromium-i18n.appspot.com/ssl-address/data";
 const saveAs = (filename, data) => {
   fs.writeFileSync(
     path.resolve("src", "address", "google-data", filename),
-    JSON.stringify(data),
+    data,
     { encoding: "utf-8" }
   );
 };
@@ -17,7 +17,14 @@ const getCountries = async () => {
     axios
       .get(GOOGLE_DATA_URL)
       .then(({ data }) => {
-        resolve(data.countries.split("~"));
+        const countries = data.countries.split("~");
+        saveAs(
+          "country-codes.type.ts",
+          `export type CountryCode = ${countries
+            .map((code) => `"${code}"`)
+            .join("|")}`
+        );
+        resolve(countries);
       })
       .catch(reject);
   });
@@ -54,7 +61,7 @@ const getCountryData = async (countryCode) => {
       },
       {}
     );
-    saveAs("data.json", JSONData);
+    saveAs("data.json", JSON.stringify(JSONData));
     console.log("Done.");
   } catch (e) {
     console.error(e);

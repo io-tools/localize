@@ -1,3 +1,4 @@
+export type { CountryCode } from "./country-codes.type";
 import * as countries from "./data.json";
 
 export class GoogleAddressData {
