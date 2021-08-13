@@ -16,9 +16,9 @@
     "build:esm": "tsc -p tsconfig.esm.json",
     "build:cjs": "tsc -p tsconfig.cjs.json",
     "build:types": "tsc -p tsconfig.types.json",
+    "preload": "node preload/index.mjs",
     "test": "jest",
-    "ncu": "npm-check-updates",
-    "prepare": "node prepare.mjs"
+    "ncu": "npm-check-updates"
   },
   "repository": {
     "type": "git",

@@ -1,15 +1,12 @@
 import path from "path";
-import url from "url";
 import fs from "fs";
 import axios from "axios";
-
-const __dirname = path.dirname(url.fileURLToPath(import.meta.url));
 
 const GOOGLE_DATA_URL = "https://chromium-i18n.appspot.com/ssl-address/data";
 
 const saveAs = (filename, data) => {
   fs.writeFileSync(
-    path.resolve(__dirname, "google-data", filename),
+    path.resolve("src", "address", "google-data", filename),
     JSON.stringify(data),
     { encoding: "utf-8" }
   );
