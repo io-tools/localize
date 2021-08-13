@@ -17,9 +17,7 @@ const getCountries = async () => {
     axios
       .get(GOOGLE_DATA_URL)
       .then(({ data }) => {
-        const countries = data.countries.split("~");
-        saveAs("countries.json", countries);
-        resolve(countries);
+        resolve(data.countries.split("~"));
       })
       .catch(reject);
   });
