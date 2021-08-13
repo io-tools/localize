@@ -1,7 +1,7 @@
-import { GoogleAddressData } from "./google-data";
+import { GoogleAddressData, CountryCode } from "./google-data";
 import { AddressInput } from "./interfaces";
 
-export const getCountries = (): Array<{ code: string; name: string }> => {
+export const getCountries = (): Array<{ code: CountryCode; name: string }> => {
   return GoogleAddressData.getSupportedCountries();
 };
 
